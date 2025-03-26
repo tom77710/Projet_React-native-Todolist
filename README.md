@@ -5,13 +5,13 @@ Application avec Réact-Native.
 L'application mobile permet de faire des listes de tâches
 
 
-## Getting started
+## Getting started & Structure du Projet
 
 ```shell
 npm i
 npx expo start
 
-### Structure du Projet
+---------------------------------------
 
 PROJET_REACT-NATIVE/
 ├── assets/
